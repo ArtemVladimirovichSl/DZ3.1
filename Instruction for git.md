@@ -14,3 +14,6 @@
     - Debian/Ubuntu - _apt-get install git_
     - Fedora - _yum install git_
 Подробности установки по [ссылке](https://git-scm.com/download/linux)        
+
+##Структура директории git
+
